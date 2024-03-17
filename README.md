@@ -1,4 +1,12 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+I learned about Lucia auth, which involves setting cookies for sign-in, sign-up, and sign-out functionalities, aiming to streamline user authentication processes and enhance security measures on websites or applications.
+
+## Technologies i used
+- Nextjs
+- Bun
+- Tailwindcss
+- Shadcn
+- Lucia
+- Postgresql/Drizzle orm
 
 ## Getting Started
 
